@@ -9,7 +9,7 @@ This project utilizes the NIST Cybersecurity Framework to conduct a comprehensiv
 
 <p allign="center">
  
-The following week is a writen demonstration with a customer  NIST sercurity document.
+The following week is a writen demonstration with a customer  NIST sercurity document.<br />
 [Michael Radel - SEC310 Project -Final.docx](https://github.com/Radel024/Principles-of-Security-Mgmt/files/12044956/Michael.Radel.-.SEC310.Project.-Final.docx)
  <br />
 
