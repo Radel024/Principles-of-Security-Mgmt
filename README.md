@@ -37,10 +37,6 @@ This project utilizes the NIST Cybersecurity Framework to conduct a comprehensiv
 <br />
 <br />
 
-<br />![Screenshot (100)](https://github.com/Radel024/Principles-of-Security-Mgmt/assets/137848295/30594891-dd44-4c0c-b9f2-c995342ddf07)
-
-<br />
-<br />
 
 <br/>![Screenshot (101)](https://github.com/Radel024/Principles-of-Security-Mgmt/assets/137848295/422a22d0-fee0-4639-b469-c20d1e25a9f9)
 
@@ -62,6 +58,7 @@ This project utilizes the NIST Cybersecurity Framework to conduct a comprehensiv
 <br/>
 <br/>
 
+[Michael Radel - SEC310 Project -Final.docx](https://github.com/Radel024/Principles-of-Security-Mgmt/files/12044956/Michael.Radel.-.SEC310.Project.-Final.docx)
 
 
 <!--
