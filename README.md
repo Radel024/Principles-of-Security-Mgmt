@@ -7,6 +7,11 @@ Principles of Security Mgmt Project
 This project utilizes the NIST Cybersecurity Framework to conduct a comprehensive assessment of the organization's cybersecurity and implement remediation measures. The aim is to strengthen security, identify vulnerabilities, and improve incident response capabilities. The assessment focuses on the Identify, Protect, Detect, Respond, and Recover functions of the NIST Framework. The project includes implementing recommended security controls, updating policies, and enhancing network security measures. By leveraging the NIST Framework, this project aims to fortify the organization's cybersecurity defenses and safeguard against potential threats, ensuring a resilient and secure environment.
 <br />
 
+<p allign="center">
+ 
+<h2> the following week is a writen demonstration with a customer  NIST sercurity document.
+ [Michael Radel - SEC310 Project -Final.docx](https://github.com/Radel024/Principles-of-Security-Mgmt/files/12044956/Michael.Radel.-.SEC310.Project.-Final.docx)
+
 <h2>Project walk-through:</h2>
 
 <p align="center">
@@ -58,7 +63,6 @@ This project utilizes the NIST Cybersecurity Framework to conduct a comprehensiv
 <br/>
 <br/>
 
-[Michael Radel - SEC310 Project -Final.docx](https://github.com/Radel024/Principles-of-Security-Mgmt/files/12044956/Michael.Radel.-.SEC310.Project.-Final.docx)
 
 
 <!--
