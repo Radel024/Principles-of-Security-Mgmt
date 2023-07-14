@@ -1,5 +1,5 @@
 # Principles-of-Security-Mgmt
-Principles of Security Mgmt Project
+
 
 <h1>Demonstration of NIST security Framework and Policy Database</h1>
 
