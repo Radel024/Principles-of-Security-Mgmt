@@ -1,7 +1,7 @@
 # Principles-of-Security-Mgmt
 
 
-<h1>Demonstration of NIST security Framework and Policy Database</h1>
+Demonstration of NIST security Framework and Policy Database
 
 <h2>Description</h2>
 This project utilizes the NIST Cybersecurity Framework to conduct a comprehensive assessment of the organization's cybersecurity and implement remediation measures. The aim is to strengthen security, identify vulnerabilities, and improve incident response capabilities. The assessment focuses on the Identify, Protect, Detect, Respond, and Recover functions of the NIST Framework. The project includes implementing recommended security controls, updating policies, and enhancing network security measures. By leveraging the NIST Framework, this project aims to fortify the organization's cybersecurity defenses and safeguard against potential threats, ensuring a resilient and secure environment.
